@@ -1,9 +1,12 @@
-# BasicReactSetupWithParcel
-React biolerplate featuring parcel, eslint, prettier with basic configs
+# React.js biolerplate featuring parcel, eslint, prettier with basic configs
 
-Pre-requisites:
-  node
-Setup:
-  npm install
-Run:
-  npm run dev
+
+### Requirements
+	node
+
+###  Setup
+    npm install
+
+### Launch
+	npm run dev
+> App will run locally at: http://localhost:1234 
